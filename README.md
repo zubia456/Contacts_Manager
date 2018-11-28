@@ -3,9 +3,9 @@ This project is about maintaining the Conatcts and their info
 ### Data Source
 The source is a json Object which is conatain name of contacts and their information such as
 - image
--address
--rating
--likes and dislikes
+- address
+- rating
+- likes and dislikes
 
 
 ### Components
